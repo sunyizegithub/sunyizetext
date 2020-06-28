@@ -22,7 +22,7 @@ import java.util.Map;
 @Controller
 public class WxController {
 
-   //8  25
+   //8  31
     @Resource
     private WXConfig wxConfig;
 
